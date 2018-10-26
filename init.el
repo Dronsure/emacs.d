@@ -6,5 +6,7 @@
 
 (require 'init-elpa)
 (require 'init-interface) ;; user interface config
+(require 'init-ibuffer)
+
 
 (provide 'init)

@@ -15,4 +15,4 @@
 (menu-bar-mode -1)
 
 
-(provide 'init-interface.el)
+(provide 'init-interface)
