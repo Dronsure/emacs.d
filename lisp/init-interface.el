@@ -14,5 +14,8 @@
 ;; no menu bar
 (menu-bar-mode -1)
 
+;; spacemacs theme
+(require-package 'spacemacs-theme)
+(load-theme 'spacemacs-dark t)
 
 (provide 'init-interface)

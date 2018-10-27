@@ -7,6 +7,9 @@
 (require 'init-elpa)
 (require 'init-interface) ;; user interface config
 (require 'init-ibuffer)
+(require 'init-smex)
+(require 'init-company)
+(require 'init-edit-utils)
 
 
 (provide 'init)
