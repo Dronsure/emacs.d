@@ -12,7 +12,7 @@
 (global-set-key (kbd "C-x C-f") 'counsel-find-file)
 
 (require 'swiper)
-(setq ivy-extra-directories nil)
+;(setq ivy-extra-directories nil)
 
 (defun eh-ivy-open-current-typed-path ()
   (interactive)
