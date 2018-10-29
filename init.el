@@ -10,6 +10,6 @@
 (require 'init-ivy)
 (require 'init-company)
 (require 'init-edit-utils)
-
+(require 'init-sessions)
 
 (provide 'init)
