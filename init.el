@@ -11,5 +11,7 @@
 (require 'init-company)
 (require 'init-edit-utils)
 (require 'init-sessions)
+(require 'init-flycheck)
+(require 'init-golang)
 
 (provide 'init)
