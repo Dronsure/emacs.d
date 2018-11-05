@@ -13,5 +13,6 @@
 (require 'init-sessions)
 (require 'init-flycheck)
 (require 'init-golang)
+(require 'init-org)
 
 (provide 'init)
