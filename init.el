@@ -14,5 +14,6 @@
 (require 'init-flycheck)
 (require 'init-golang)
 (require 'init-multiple-cursors)
+(require 'init-org)
 
 (provide 'init)
