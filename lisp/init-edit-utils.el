@@ -1,8 +1,6 @@
-;; ido options
-;(setq ido-enable-flex-matching t)
-;(setq ido-everywhere t)
-;(ido-mode 1)
-
+;; column-enforce-mode
+(require-package 'column-enforce-mode)
+(global-column-enforce-mode t)
 
 ;; smartparens
 (require-package 'smartparens)
