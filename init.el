@@ -15,5 +15,6 @@
 (require 'init-golang)
 (require 'init-multiple-cursors)
 (require 'init-org)
+(require 'init-env)
 
 (provide 'init)
