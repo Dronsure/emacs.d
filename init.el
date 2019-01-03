@@ -23,5 +23,7 @@
 (require 'init-multiple-cursors)
 (require 'init-org)
 (require 'init-env)
+(require 'init-php)
+(require 'init-julia)
 
 (provide 'init)
