@@ -4,6 +4,7 @@
 
 ;; smartparens
 (require-package 'smartparens)
+(require 'smartparens-config)
 (smartparens-global-mode t)
 
 ;; mark active key binding
