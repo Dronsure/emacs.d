@@ -25,5 +25,6 @@
 (require 'init-env)
 (require 'init-php)
 (require 'init-julia)
+(require 'init-gtd)
 
 (provide 'init)
