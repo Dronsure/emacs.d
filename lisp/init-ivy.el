@@ -1,3 +1,4 @@
+(require-package 'smex)
 (require-package 'ivy)
 
 (setq ivy-use-virtual-buffers t)
