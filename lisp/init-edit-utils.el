@@ -15,4 +15,7 @@
 (global-set-key (kbd "C-c w l") 'avy-goto-line)
 (global-set-key (kbd "C-c w w") 'avy-goto-word-1)
 
+;; global linum mode
+(global-linum-mode)
+
 (provide 'init-edit-utils)
