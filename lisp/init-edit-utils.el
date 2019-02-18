@@ -1,7 +1,3 @@
-;; column-enforce-mode
-(require-package 'column-enforce-mode)
-(global-column-enforce-mode t)
-
 ;; smartparens
 (require-package 'smartparens)
 (require 'smartparens-config)
