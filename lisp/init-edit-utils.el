@@ -2,9 +2,9 @@
 (require-package 'column-enforce-mode)
 (global-column-enforce-mode t)
 
-;; smartparens
-(require-package 'smartparens)
-(require 'smartparens-config)
+;; autopair
+(require-package 'autopair)
+(autopair-global-mode)
 
 ;; mark active key binding
 (global-set-key (kbd "C-x C-x") 'set-mark-command)
