@@ -1,6 +1,4 @@
 ;; column-enforce-mode
-(require-package 'column-enforce-mode)
-(global-column-enforce-mode t)
 
 ;; autopair
 (require-package 'autopair)
