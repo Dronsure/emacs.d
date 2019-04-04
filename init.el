@@ -24,7 +24,7 @@
 (require 'init-org)
 (require 'init-env)
 (require 'init-php)
-(require 'init-julia)
 (require 'init-gtd)
+(require 'init-projectile)
 
 (provide 'init)
