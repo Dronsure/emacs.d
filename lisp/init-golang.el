@@ -8,7 +8,7 @@
   (setq company-begin-commands '(self-insert-command)))
 
 (defun my-go-mode-hook ()
-  (add-hook 'before-save-hook 'gofmt-before-save) ;; do gofmt before save
+  ;(add-hook 'before-save-hook 'gofmt-before-save) ;; do gofmt before save
   (set (make-local-variable 'company-backends) '(company-go))
   )
 
