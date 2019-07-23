@@ -19,12 +19,13 @@
 (require 'init-edit-utils)
 (require 'init-sessions)
 (require 'init-flycheck)
-(require 'init-golang)
 (require 'init-multiple-cursors)
 (require 'init-org)
 (require 'init-env)
-(require 'init-php)
-(require 'init-gtd)
 (require 'init-projectile)
+
+
+;; programs language setting
+(require 'init-golang)
 
 (provide 'init)
