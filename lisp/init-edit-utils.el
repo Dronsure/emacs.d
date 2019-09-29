@@ -14,7 +14,7 @@
 (global-set-key (kbd "C-c w w") 'avy-goto-word-1)
 
 ;; global linum mode
-(global-linum-mode)
+;;(global-linum-mode)
 
 
 (defadvice split-window (after move-point-to-new-window activate)

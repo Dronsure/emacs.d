@@ -24,7 +24,6 @@
 (require 'init-env)
 (require 'init-projectile)
 
-
 ;; programs language setting
 (require 'init-golang)
 
