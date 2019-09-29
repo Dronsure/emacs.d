@@ -1,6 +1,6 @@
 ;; company
 (require-package 'company)
-
+ 
 ;; lsp mode
 (require-package 'lsp-mode)
 (require-package 'lsp-ui)

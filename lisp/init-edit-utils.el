@@ -6,6 +6,7 @@
 
 ;; mark active key binding
 (global-set-key (kbd "C-x C-x") 'set-mark-command)
+(global-set-key (kbd "C-c C-p") 'pop-global-mark)
 
 ;; avy
 (require-package 'avy)
